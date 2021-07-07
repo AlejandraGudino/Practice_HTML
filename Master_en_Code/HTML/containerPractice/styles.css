@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+*{
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    background: cadetblue;
+    padding: 20px;
+    text-align: center;
+    font-size: 35px;
+
+}
+.main_content{
+    width: 70%;
+    background: darkblue;
+    padding: 700px,700px;
+    display: inline-block;
+}
+.rigth_panel{
+    float: right;
+    width: 30%;
+    background: rosybrown;
+    padding: 700px, 700px;
+}
+.footer{
+ width: 100%;
+ background: skyblue;
+ padding: 60px;
+}
